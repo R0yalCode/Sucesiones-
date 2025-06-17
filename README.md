@@ -10,6 +10,7 @@ Se implemento la interfaz Successionable, para agregar la sucecion de Serie de p
 - [Uso](#uso)
 - [Ejemplo de salida](#ejemplo-de-salida)
 - [Experiencia y desafíos](#experiencia-y-desafíos)
+- [Integrantes](#integrantes)
 
 ---
 
@@ -83,9 +84,7 @@ S = 1^3 + 3^3 + 5^3 + 7^3 + 11^3 + 13^3 + 17^3 + 19^3
 Resultado: 15796
 ```
 ![image](https://github.com/user-attachments/assets/41555f39-cdae-4460-8cc5-438179991691)
- - Ejemplo de ejecucion
----
-
+ > Ejemplo de ejecucion
 ---
 
 ## Experiencia y desafíos
@@ -102,9 +101,8 @@ Para agregar nuevas sucesiones, basta con crear una nueva clase que implemente l
 
 ---
 
-## Autor
+## Integrantes
 
-Integrantes
 ### GYNA MAYERLY YUPANQUI ROMERO
 ### ROYEL IVÁN JIMA PARDO
 ### DAVID ALEJANDRO RUIZ SANCHEZ
