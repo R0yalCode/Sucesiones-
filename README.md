@@ -1,6 +1,6 @@
 #  Sucesiones 
 
-Se implemento la interfaz Successionable, para agregar la sucecion de Serie de primos elevados al cubo  hasta un limite (S = 1^3 + 3^3 + 5^3 + 7^3 + 11^3 + 13^3 ... + N^3), si se requiere agregar una nueva sucecion, se debe crear una nueva clase que implemente Seccessionable y agregar la aopcion en el main.java
+Se implemento la interfaz Successionable, para agregar la sucecion de Serie de primos elevados al cubo  hasta un limite (S = 1^3 + 3^3 + 5^3 + 7^3 + 11^3 + 13^3 ... + N^3), si se requiere agregar una nueva sucecion, se debe crear una nueva clase que implemente Seccessionable y agregar la opcion en el main.java
 
 ---
 
